@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "format": "Nintendo Switch",
+        "title": "The Legend of Zelda: Breath of the Wild",
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2020/02/zelda_breath_wild_key_art.jpg"
+    },
+    {
+        "id": "2",
+        "format": "Nintendo Switch",
+        "title": "Super Mario Odyssey",
+        "image": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2017/08/super-mario-odyssey_1.jpg?tf=3840x"
+    },
+    {
+        "id": "3",
+        "format": "Nintendo Switch",
+        "title": "Animal Crossing: New Horizons",
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000027619/9989957eae3a6b545194c42fec2071675c34aadacd65e6b33fdfe7b3b6a86c3a"
+    },
+    {
+        "id": "4",
+        "format": "Nintendo Switch",
+        "title": "Mario Kart 8 Deluxe",
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000000153/de697f487a36d802dd9a5ff0341f717c8486221f2f1219b675af37aca63bc453"
+    },
+    {
+        "id": "5",
+        "format": "Nintendo Switch",
+        "title": "Splatoon 3",
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000046395/4555efa9f2061f7d1e1646ab3d3af790a7491270b1b3e32e730273e9ac096827"
+    },
+    {
+        "id": "1",
+        "format": "Nintendo Switch",
+        "title": "The Legend of Zelda: Breath of the Wild",
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2020/02/zelda_breath_wild_key_art.jpg"
+    },
+    {
+        "id": "2",
+        "format": "Nintendo Switch",
+        "title": "Super Mario Odyssey",
+        "image": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2017/08/super-mario-odyssey_1.jpg?tf=3840x"
+    },
+    {
+        "id": "3",
+        "format": "Nintendo Switch",
+        "title": "Animal Crossing: New Horizons",
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000027619/9989957eae3a6b545194c42fec2071675c34aadacd65e6b33fdfe7b3b6a86c3a"
+    },
+    {
+        "id": "4",
+        "format": "Nintendo Switch",
+        "title": "Mario Kart 8 Deluxe",
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000000153/de697f487a36d802dd9a5ff0341f717c8486221f2f1219b675af37aca63bc453"
+    },
+    {
+        "id": "5",
+        "format": "Nintendo Switch",
+        "title": "Splatoon 3",
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000046395/4555efa9f2061f7d1e1646ab3d3af790a7491270b1b3e32e730273e9ac096827"
+    }
+]
